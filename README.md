@@ -1,3 +1,9 @@
+# 남지윤
+
+👋 안녕하세요! AI & 풀스택 개발자 남지윤입니다.
+실질적인 가치와 혁신을 만드는 프로젝트에 열정을 쏟으며 개발하고 있습니다.
+"헤맨 만큼 내 땅이다"라는 신념으로 한 줄 한 줄 쌓아, 오늘도 저만의 개발 지도를 확장하고 있습니다.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
